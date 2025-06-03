@@ -1,7 +1,7 @@
 # The URL the site will be built for
 base_url = "https://solhvemjsun.github.io"
 
-title = "Sol's blog"
+title = "Sol's archive"
 description = "Fiat Lux!"
 
 output_dir = "public"

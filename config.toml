@@ -1,5 +1,5 @@
 # The URL the site will be built for
-base_url = "https://solhvemjsun.github.io/On-with-the-journey/"
+base_url = "https://solhvemjsun.github.io"
 
 title = "Sol's blog"
 description = "Fiat Lux!"

@@ -1,0 +1,44 @@
+# The URL the site will be built for
+base_url = "https://solhvemjsun.github.io/On-with-the-journey/"
+
+title = "Sol's blog"
+description = "Fiat Lux!"
+
+output_dir = "public"
+
+default_language = "en"
+
+compile_sass = true
+
+minify_html = true
+
+generate_feeds = true
+
+author = "Sol"
+
+taxonomies = [
+  {name = "tags", feed = true},
+]
+
+build_search_index = true
+
+
+[markdown]
+
+highlight_code = true
+highlight_theme = "base16-ocean-dark" # to change
+render_emoji = true
+external_links_target_blank = true
+
+
+[extra]
+# referring to https://www.getzola.org/themes/neovim-theme/
+
+blog_name = "Sol's blog"
+
+background-image = "assets/background.jpg"
+
+config_js = "config.js"
+
+# referring to https://www.getzola.org/themes/particle/
+# custom_css = "style.css"

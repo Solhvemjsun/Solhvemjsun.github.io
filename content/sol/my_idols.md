@@ -1,6 +1,5 @@
 +++
-title = "The real sages"
-date = 2025-06-02
+title = "La Humanity"
 +++
 
 Grigori Perelman for Poincare conjecture.

@@ -101,7 +101,7 @@ body {
     position: sticky;
     top: 0;
     width: calc(20% - 10px);
-    height: calc(100% - 58px);
+    height: calc(100% - 25px);
 
     box-shadow: 3px 0px 0px 0px var(--font-color);
     overflow-x: scroll;
@@ -145,7 +145,7 @@ main {
   }
 
   .viewer {
-    height: calc(100% - 58px);
+    height: calc(100% - 25px);
     overflow: clip;
 
     .content {
@@ -227,19 +227,19 @@ main {
       }
 
       h1::before {
-        content: '󰲡 ';
+        content: '';
       }
 
       h2,
       h2::before {
-        color: #ffc777;
-        content: ' 󰲣 ';
+        color: #93BAE3;
+        content: '';
       }
 
       h3,
       h3::before {
-        color: #c3e88d;
-        content: '  󰲥 ';
+        color: #a3c9c6;
+        content: '';
       }
     }
 
@@ -344,7 +344,7 @@ main {
   .prompt {
     position: relative;
     bottom: 0;
-    height: 55px;
+    height: 22px;
     box-shadow: 0px -3px 0px 0px var(--font-color);
 
     font-size: 10px;

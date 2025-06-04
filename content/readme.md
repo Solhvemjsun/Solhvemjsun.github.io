@@ -1,5 +1,5 @@
 +++
-title="README"
+title="Preface"
 +++
 
 # Welcome
@@ -8,6 +8,7 @@ title="README"
 
 * [1. Shortcuts](#shortcuts)
 * [2. Commands](#commands)
+* [3. References](#references)
 
 ## Shortcuts
 
@@ -34,3 +35,11 @@ title="README"
 `:q` exit website
 
 `:set mouse=true|false` to set the mouse (true=showed, false=hidden)
+
+## References
+
+The blog framework is [Zola](https://github.com/getzola/zola).
+
+The web theme is based on [Super-Botman's neovim-theme](https://github.com/Super-Botman/neovim-theme).
+
+The background picture is the first footprint on the moon from [NASA's website](https://nssdc.gsfc.nasa.gov/imgcat/html/object_page/a11_h_40_5878.html).

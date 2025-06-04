@@ -1,7 +1,7 @@
 # The URL the site will be built for
 base_url = "https://solhvemjsun.github.io"
 
-title = "Sol's archive"
+title = "Sol's Blog"
 description = "Fiat Lux!"
 
 output_dir = "public"
@@ -34,11 +34,6 @@ external_links_target_blank = true
 [extra]
 # referring to https://www.getzola.org/themes/neovim-theme/
 
-blog_name = "Sol's blog"
+blog_name = "Sol's Blog"
 
 background-image = "assets/background.jpg"
-
-config_js = "config.js"
-
-# referring to https://www.getzola.org/themes/particle/
-# custom_css = "style.css"

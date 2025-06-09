@@ -6,3 +6,9 @@ pre {
 a {
   color: var(--font-color);
 }
+
+sup {
+  font-size: 0.6em;
+  vertical-align: super;
+  line-height: normal;
+}

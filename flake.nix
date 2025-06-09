@@ -16,6 +16,7 @@
       shellHook = ''
         echo "Fiat Nix!"
         echo "Use 'zola serve' to test"
+        zola serve
       '';
     };
   };

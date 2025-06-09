@@ -36,6 +36,15 @@ title="Welcome"
 
 `:set mouse=true|false` to set the mouse (true=showed, false=hidden)
 
+## Highlights
+
+`Variable name`
+
+```python
+# A piece of code
+println("Hello_World")
+```
+
 ## References
 
 The blog framework is [Zola](https://github.com/getzola/zola).

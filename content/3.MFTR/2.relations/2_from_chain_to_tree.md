@@ -1,5 +1,5 @@
 +++
-title = "6.From Chain to Tree: Composed Functions"
+title = "2.From Chain to Tree: Composed Functions"
 +++
 
 # Composed Functions

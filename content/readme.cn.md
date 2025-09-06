@@ -1,15 +1,9 @@
 +++
-title="Mainpage"
+title="欢迎"
 +++
 
-# Welcome
+# 欢迎来到我的博客
 
-## Languages
-* [English](https://solhvemjsun.github.io/readme/)
-* [中文](https://solhvemjsun.github.io/cn/readme/)
-* 日本語(WIP)
-## Languages
-* [中文]]
 ## Table of content
 
 * [1. Shortcuts](#shortcuts)

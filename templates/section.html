@@ -9,7 +9,7 @@
   <li class="section"><a class="selected" href='./' tabindex="{{tabindex}}">./</a></li>
 
   {%- for section in section.subsections -%}
-  {%- set section = get_section(path=section) -%}
+  {%- set section = get_section(path="_index.md", lang=lang) | default(value=get_section(path="_index.md")) -%}
   {% set_global tabindex = tabindex - 1 %}
   <li class="section"><a href='{{ section.permalink | safe }}' tabindex="{{tabindex}}">{{ section.title }}/ </a></li>
   {%- endfor -%}

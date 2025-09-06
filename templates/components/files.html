@@ -1,6 +1,6 @@
 {% block files %}
 <ul>
-  {%- set root_section = get_section(path="_index.md") -%}
+  {%- set root_section = get_section(path="_index.md", lang=lang) | default(value=get_section(path="_index.md")) -%}
   {% set_global tabindex = -1 %}
 
   {% set pages = root_section.pages | sort(attribute="title")%}

@@ -1,5 +1,5 @@
 +++
-title="欢迎"
+title="主页"
 +++
 
 # 欢迎
@@ -9,24 +9,15 @@ title="欢迎"
 * [English](solhvemjsun.github.io)
 * [中文](solhvemjsun.github.io/cn)
 
-## Table of content
+## 内容列表
 
-* [1. Highlights](#Highlights)
-* [2. References](#References)
+* [1. 高亮样式](#gao-liang-yang-shi)
 
-## Highlights
+## 高亮样式
 
-`Variable name`
+`变量名`
 
 ```python
-# A piece of code
+# 一段代码
 println("Hello_World")
 ```
-
-## References
-
-The blog framework is [Zola](https://github.com/getzola/zola).
-
-The web theme is based on [Super-Botman's neovim-theme](https://github.com/Super-Botman/neovim-theme).
-
-The background picture is the first footprint on the moon from [NASA's website](https://nssdc.gsfc.nasa.gov/imgcat/html/object_page/a11_h_40_5878.html).

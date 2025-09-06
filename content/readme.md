@@ -6,8 +6,8 @@ title="Mainpage"
 
 ## Languages
 
-* [English](solhvemjsun.github.io)
-* [中文](solhvemjsun.github.io/cn)
+* [English](@/readme.md)
+* [中文](@/readme.cn.md)
 
 ## Table of content
 

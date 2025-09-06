@@ -6,8 +6,8 @@ title="主页"
 
 ## 语言
 
-* [English](solhvemjsun.github.io)
-* [中文](solhvemjsun.github.io/cn)
+* [English](@/readme.md)
+* [中文](@/readme.cn.md)
 
 ## 内容列表
 

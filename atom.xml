@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+    <title>Sol&#x27;s Blog</title>
+    <subtitle>Fiat Lux</subtitle>
+    <link rel="self" type="application/atom+xml" href="https://solhvemjsun.github.io/atom.xml"/>
+    <link rel="alternate" type="text/html" href="https://solhvemjsun.github.io"/>
+    <generator uri="https://www.getzola.org/">Zola</generator>
+    <updated>2025-10-04T00:00:00+00:00</updated>
+    <id>https://solhvemjsun.github.io/atom.xml</id>
+    <entry xml:lang="en">
+        <title>The Witness</title>
+        <published>2025-10-04T00:00:00+00:00</published>
+        <updated>2025-10-04T00:00:00+00:00</updated>
+        
+        <author>
+          <name>
+            
+              Sol
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://solhvemjsun.github.io/1.personal/daily/1-the-witness/"/>
+        <id>https://solhvemjsun.github.io/1.personal/daily/1-the-witness/</id>
+        
+        <content type="html" xml:base="https://solhvemjsun.github.io/1.personal/daily/1-the-witness/">&lt;p&gt;#The Witness&lt;&#x2F;p&gt;
+&lt;p&gt;As the thing goes, I&#x27;have deeper and deeper belief that I&#x27;m a underqualified player using the devices I made myself to play through my life, all the luck and chances, all the humble obessions I hold, all the great people I&#x27;ve met, pushes me to crack the gate of the next era;&lt;&#x2F;p&gt;
+&lt;p&gt;I am the witness of the person of grand miracle, while having the freedom of life, not only in California, I&#x27;ve lost much tough experienced a lot during my whole life of loving, fighting, and escaping;&lt;&#x2F;p&gt;
+&lt;p&gt;Thank you, whoever created this or just the luck that formed this great world, thank to myself, for not give up on the way of exploring.&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
+    <entry xml:lang="en">
+        <title>Turn of fortune</title>
+        <published>2025-10-01T00:00:00+00:00</published>
+        <updated>2025-10-01T00:00:00+00:00</updated>
+        
+        <author>
+          <name>
+            
+              Sol
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://solhvemjsun.github.io/1.personal/daily/0-turn-of-fortune/"/>
+        <id>https://solhvemjsun.github.io/1.personal/daily/0-turn-of-fortune/</id>
+        
+        <content type="html" xml:base="https://solhvemjsun.github.io/1.personal/daily/0-turn-of-fortune/">&lt;p&gt;#Turn of fortune&lt;&#x2F;p&gt;
+&lt;p&gt;Since landing in California, dragging my ailing body along, I&#x27;ve been so lucky like playing video game, all the things and opportunities I&#x27;ve ever dreamed of and lost have reappeared in my life.&lt;&#x2F;p&gt;
+&lt;p&gt;I&#x27;ve gained profound enlightenment about life, career has flourished unexpectedly, my mental have gradually healed, to the point where I no longer keep my old firend: death in mind.&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
+    <entry xml:lang="en">
+        <title>Hello World</title>
+        <published>2025-02-19T00:00:00+00:00</published>
+        <updated>2025-02-19T00:00:00+00:00</updated>
+        
+        <author>
+          <name>
+            
+              Sol
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://solhvemjsun.github.io/z.dev/test/hello-world/"/>
+        <id>https://solhvemjsun.github.io/z.dev/test/hello-world/</id>
+        
+        <content type="html" xml:base="https://solhvemjsun.github.io/z.dev/test/hello-world/">&lt;p&gt;Hello, world!&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
+</feed>

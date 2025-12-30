@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="cn">
+    <title>献之的博客</title>
+    <subtitle>Fiat Lux</subtitle>
+    <link rel="self" type="application/atom+xml" href="https://solhvemjsun.github.io/cn/atom.xml"/>
+    <link rel="alternate" type="text/html" href="https://solhvemjsun.github.io"/>
+    <generator uri="https://www.getzola.org/">Zola</generator>
+    <updated>2025-10-04T00:00:00+00:00</updated>
+    <id>https://solhvemjsun.github.io/cn/atom.xml</id>
+    <entry xml:lang="cn">
+        <title>见证者</title>
+        <published>2025-10-04T00:00:00+00:00</published>
+        <updated>2025-10-04T00:00:00+00:00</updated>
+        
+        <author>
+          <name>
+            
+              Sol
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://solhvemjsun.github.io/cn/1.personal/daily/1-the-witness/"/>
+        <id>https://solhvemjsun.github.io/cn/1.personal/daily/1-the-witness/</id>
+        
+        <content type="html" xml:base="https://solhvemjsun.github.io/cn/1.personal/daily/1-the-witness/">&lt;h1 id=&quot;jian-zheng-zhe&quot;&gt;见证者&lt;&#x2F;h1&gt;
+&lt;p&gt;自拖着病体到达加州以来，幸运的像在电子游戏，机缘巧合下所有梦想过的，失去过的事物与机会尽数出现在我生命中。&lt;&#x2F;p&gt;
+&lt;p&gt;人生大彻大悟，事业插柳成荫，心病亦渐渐痊愈，以至不再挂记死亡这老友了。&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
+    <entry xml:lang="cn">
+        <title>时来运转</title>
+        <published>2025-10-01T00:00:00+00:00</published>
+        <updated>2025-10-01T00:00:00+00:00</updated>
+        
+        <author>
+          <name>
+            
+              Sol
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://solhvemjsun.github.io/cn/1.personal/daily/0-turn-of-fortune/"/>
+        <id>https://solhvemjsun.github.io/cn/1.personal/daily/0-turn-of-fortune/</id>
+        
+        <content type="html" xml:base="https://solhvemjsun.github.io/cn/1.personal/daily/0-turn-of-fortune/">&lt;h1 id=&quot;shi-lai-yun-zhuan&quot;&gt;时来运转&lt;&#x2F;h1&gt;
+&lt;p&gt;自拖着病体到达加州以来，幸运的像在电子游戏，机缘巧合下所有梦想过的，失去过的事物与机会尽数出现在我生命中。&lt;&#x2F;p&gt;
+&lt;p&gt;人生大彻大悟，事业插柳成荫，心病亦渐渐痊愈，以至不再挂记死亡这老友了。&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
+    <entry xml:lang="cn">
+        <title>Hello World</title>
+        <published>2025-02-19T00:00:00+00:00</published>
+        <updated>2025-02-19T00:00:00+00:00</updated>
+        
+        <author>
+          <name>
+            
+              Sol
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://solhvemjsun.github.io/cn/z.dev/test/hello-world/"/>
+        <id>https://solhvemjsun.github.io/cn/z.dev/test/hello-world/</id>
+        
+        <content type="html" xml:base="https://solhvemjsun.github.io/cn/z.dev/test/hello-world/">&lt;p&gt;Hello, world!&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
+</feed>

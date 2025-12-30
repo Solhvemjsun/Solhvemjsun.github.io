@@ -3,7 +3,7 @@ title = "Turn of fortune"
 date = 2025-10-01
 +++
 
-#Turn of fortune
+# Turn of fortune
 
 Since landing in California, dragging my ailing body along, I've been so lucky like playing video game, all the things and opportunities I've ever dreamed of and lost have reappeared in my life.
 

@@ -3,7 +3,7 @@ title = "People Matters"
 date = 2025-10-04
 +++
 
-#People Matters
+# People Matters
 
 I was so interested in write someting that's eternal and ellegant then keep it in some undestroyable castle of data like the Github server database so I'm gonna be somehow sealed in the human legacy.
 

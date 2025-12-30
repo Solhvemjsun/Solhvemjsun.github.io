@@ -3,7 +3,7 @@ title = "The Witness"
 date = 2025-10-04
 +++
 
-#The Witness
+# The Witness
 
 As the thing goes, I'have deeper and deeper belief that I'm a underqualified player using the devices I made myself to play through my life, all the luck and chances, all the humble obessions I hold, all the great people I've met, pushes me to crack the gate of the next era;
 
